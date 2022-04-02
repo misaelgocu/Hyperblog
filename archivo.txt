@@ -1,0 +1,2 @@
+estes es un archivo de texto
+es una version que he creado para repasar git
