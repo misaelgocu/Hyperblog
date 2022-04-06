@@ -2,8 +2,5 @@ estes es un archivo de texto
 es una version que he creado para repasar git
 git cambios repaso
 
-<<<<<<< HEAD
-Este es un cambio desde otra cuenta para practicar si ya existiera un entorno de trabajo :o 
-=======
-Esta edicion no cuenta
->>>>>>> 1e620c48e605bfa87735de79a512519ac3720515
+
+Checamos esta prueba para ver la solucion
