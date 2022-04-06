@@ -3,3 +3,5 @@ es una version que he creado para repasar git
 git cambios repaso
 
 Esta edicion no cuenta
+
+vamos a checar el simulador sino para volver hacer todo el proceso
