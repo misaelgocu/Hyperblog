@@ -9,3 +9,16 @@ solucionado con llaves ssh
 
 Cambio de llaves gxpro360 ;)
  
+comandos echo $SHELL | 
+LS -LAH
+ NANO.ZSHRC
+ 
+abajito de
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+
+por ejemplo puedes poner algo así:
+
+alias nombreque quieras bro='eval "$(ssh-agent -s)" && ssh-add ~/.ssh/nombre de tu llave bro la priv'
+crl + o, enter, ctrl +x 
