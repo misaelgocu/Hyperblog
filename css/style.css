@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: rgb(58, 56, 56);
     color: aqua;
@@ -37,3 +38,51 @@ body{
 #container h1{
     font-size: 20px;
 }
+=======
+body{
+    background: rgb(58, 56, 56);
+    color: aqua;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera{
+    background-color: rgb(66, 65, 65);
+    box-shadow: 0px 2px 20px 0px black;
+    color: aqua;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em 0 0.5em 2em;
+}
+
+#cabecera #logo{
+    width: 50px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#post{
+    padding: 1em;  
+    background; white;
+}
+#container{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid rgb(168, 167, 167);
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
+}
+
+>>>>>>> header
