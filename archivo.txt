@@ -4,3 +4,5 @@ git cambios repaso
 
 
 Checamos esta prueba para ver la solucion
+
+Es una prueba una simulación de Open Source 2.0
